@@ -295,6 +295,7 @@ ul {
     max-width: 100%;
     margin-top: 20px;
     margin-bottom: 0;
+    display: flex;
 }
 
 .about .profileName {
@@ -365,8 +366,8 @@ ul {
         padding: 0 15px;
     }
 
-    .about .aboutP {
-        font-size: 14px; 
+    .about . {
+        font-size: 12px; 
     }
 
     .about .profileName {
